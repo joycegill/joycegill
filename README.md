@@ -1,4 +1,4 @@
-### Hi, I'm Joyce
+### Hi, I'm Joyce 👋
 
 🎓 3rd year Computer Science major with concentrations in Statistics/Data Science and Digital Studies at Grinnell College <br/>
 📚 Co-Advised by Professor Sarah J. Purcell, Charlie Curtsinger, and Collin Nolte <br/>
