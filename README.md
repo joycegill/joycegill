@@ -2,7 +2,7 @@
 
 🎓 3rd year Computer Science major with concentrations in Statistics/Data Science and Digital Studies at Grinnell College <br/>
 📚 Co-Advised by Professor Sarah J. Purcell, Charlie Curtsinger, and Collin Nolte <br/>
-💼 Working as a Instructional Coordinator, Admissions Tour Guide & Information Session Co-Host <br/>
+💼 Working as a CSC 208: Discrete Mathematics Course Mentor, Instructional Coordinator, Admissions Tour Guide & Information Session Co-Host <br/>
 💭 Interested in human-computer interaction, learning sciences, social computing, accessibility, technology consulting & product <br/>
 💗 Love traveling, hiking & figure skating <br/> 
 💌 email: gilljoyc@grinnell.edu <br/> <br/> 
