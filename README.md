@@ -9,4 +9,4 @@
 👩‍💻 Relevant Coursework: Mobile Software Development, UX Design, Software Design & Development, Machine Learning, Data Science, Statistical Modeling, Research Methods, Theory of Computation, Analysis of Algorithms, Object Oriented Programming, Data Structures & Algorithms, Applied Statistics, Behavioral Economics, Imperative Problem Solving, Functional Programming
 
 <!-- Github stats by https://github.com/anuraghazra/github-readme-stats -->
-![Joyce's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joycegill&layout=compact)
+[![Joyce's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joycegill&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
