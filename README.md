@@ -7,7 +7,8 @@
 💭 Interested in human-computer interaction, learning sciences, social computing, human-AI interaction, tech consulting & product <br/>
 💗 Love traveling, hiking & figure skating <br/> 
 💌 email: gilljoyc@grinnell.edu <br/> <br/> 
-👩‍💻 Relevant Coursework: Mobile Software Development, UX Design, Software Design & Development, Machine Learning, Data Science, Statistical Modeling, Research Methods, Theory of Computation, Analysis of Algorithms, Object Oriented Programming, Data Structures & Algorithms, Applied Statistics, Behavioral Economics, Imperative Problem Solving, Functional Programming
+👩‍💻 Relevant Coursework: Human-AI Interaction, Mobile Software Development, UX Design, Software Design & Development, Machine Learning, Data Science, Statistical Modeling, Research Methods, Theory of Computation, Analysis of Algorithms, Opearting Systems & Parallel Algorithms, Object Oriented Programming, Data Structures & Algorithms, Applied Statistics, Behavioral Economics, Imperative Problem Solving, Functional Programming, Evolution of Technology
 
 <!-- Github stats by https://github.com/anuraghazra/github-readme-stats -->
 [![Joyce's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joycegill&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Joyce's GitHub stats](https://github-readme-stats.vercel.app/api?username=joycegill&show_icons=true&theme=radical)
