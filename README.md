@@ -1,8 +1,8 @@
 ### Hi, I'm Joyce 👋
 
 🎓 3rd year Computer Science major with concentrations in Statistics/Data Science and Digital Studies at Grinnell College <br/>
-📚 Co-Advised by Professor Sarah J. Purcell, Charlie Curtsinger, and Collin Nolte <br/>
-💼 Working as an AI Research Assistant, CSC 208: Discrete Mathematics Course Mentor, Lead Instructional Coordinator, Admissions Tour Guide & Information Session Co-Host at Grinnell College <br/>
+📚 Co-Advised by Professors Sarah J. Purcell, Charlie Curtsinger, and Collin Nolte <br/>
+💼 Working as an AI Research Assistant, CSC 208: Discrete Mathematics Course Mentor, Lead Instructional Coordinator at the Grinnell Middle School, Admissions Tour Guide & Information Session Co-Host at Grinnell College <br/>
 🦭 Prev. Undergraduate Researcher at Amazon Science and Columbia University's Computer-Enabled Abilities Laboratory (CEAL) ♔ <br/>
 💭 Interested in human-computer interaction, learning sciences, social computing, human-AI interaction, tech consulting & product <br/>
 💗 Love traveling, hiking & figure skating <br/> 
