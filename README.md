@@ -1,7 +1,8 @@
 ### Hi, I'm Joyce 👋
 
 🎓 3rd year Computer Science major with concentrations in Statistics/Data Science and Digital Studies at Grinnell College <br/>
-💼 Undergraduate Researcher at Carnegie Mellon University's Human-Computer Interaction Institute through the NSF REU Program <br/>
+💼 Undergraduate Researcher at Carnegie Mellon University's Human-Computer Interaction Institute through the NSF REU Program <br/> 
+🌳 Working with Dr. Michael Asher at Professor Paulo Carvalho's Optimized Algorithms and Knowledge (OAK) Lab <br/>
 🦭 Prev. Undergraduate Researcher at Amazon Science and Columbia University's Computer-Enabled Abilities Laboratory (CEAL) ♔ <br/>
 💭 Interested in HCI, specifically human-AI interaction, social computing, learning sciences & computer-supported cooperative work <br/>
 💌 email: gilljoyc@grinnell.edu <br/> <br/> 
